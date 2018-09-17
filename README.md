@@ -14,9 +14,9 @@ Autoliste:
 * Hyundai
 
 Die ältesten Bauwerke:
-1 Pyramiden
-2 Peterskirche
-3 UNO-City
+1. Pyramiden
+2. Peterskirche
+3. UNO-City
 
 Das ist ein Link zu [Wikipedia](https://wikipedia.at).
 
