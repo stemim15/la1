@@ -12,6 +12,7 @@ Autoliste:
 * VW
 * BMW
 * Hyundai
+* Ferrari
 
 Die ältesten Bauwerke:
 
