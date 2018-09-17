@@ -14,9 +14,12 @@ Autoliste:
 * Hyundai
 
 Die ältesten Bauwerke:
+
 1. Pyramiden
 2. Peterskirche
 3. UNO-City
+
+Mit dem Kommando `gedit ...` wird der gnome Editor gestartet.
 
 Das ist ein Link zu [Wikipedia](https://wikipedia.at).
 
